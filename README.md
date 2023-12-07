@@ -2,7 +2,7 @@
 
 ## I'm a junior data scientist.
 - 📖 I’m currently studying at Yandex
-- 💻 2024 Goals: Find a new job
+- 💻 2024 goals: start a career in DS
 - 🏸 Fun fact: sport addict
 
 ### Connect with me:
