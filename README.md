@@ -5,7 +5,6 @@
 - 💻 2024 goals: start a career in DS
 - 🏸 Fun fact: sport addict
 
-
 <br />
 
 ### Languages and Tools:
@@ -22,8 +21,4 @@
 
 ---
 
-
-
-[facebook]: https://www.facebook.com/elena.soboleva.921?mibextid=9R9pXO
-[instagram]: https://www.instagram.com/alenka_feliz/
 
