@@ -1,7 +1,7 @@
 ### Hello there, I'm Elena Soboleva 👋
 
-## I'm a junior data scientist.
-- 📖 I’m currently studying at Yandex
+## I'm a junior data scientist
+- 📖 Diving deep into the fundamentals of data analysis
 - 💻 2024 goals: start a career in DS
 - 🏸 Fun fact: sport addict
 <br />
