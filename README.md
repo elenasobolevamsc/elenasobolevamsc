@@ -13,7 +13,7 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/docker/docker.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/python/python.png" />
-<img align="left" alt="ClickHouse" width="26px" src="[https://clickhouse.com/logo.svg](https://upload.wikimedia.org/wikipedia/commons/0/0e/Clickhouse.png)" />
+<img align="left" alt="ClickHouse" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Clickhouse.png" />
 
 <br />
 <br />
