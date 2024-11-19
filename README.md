@@ -4,7 +4,6 @@
 - 📖 I’m currently studying at Yandex
 - 💻 2024 goals: start a career in DS
 - 🏸 Fun fact: sport addict
-
 <br />
 
 ### Languages and Tools:
